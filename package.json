@@ -18,5 +18,7 @@
   "bugs": {
     "url": "https://github.com/tanweerhossain/cube_rotation/issues"
   },
-  "homepage": "https://github.com/tanweerhossain/cube_rotation#readme"
+  "homepage": "https://github.com/tanweerhossain/cube_rotation#readme",
+  "dependencies": {},
+  "devDependencies": {}
 }

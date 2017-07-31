@@ -1,0 +1,22 @@
+{
+  "name": "cube_rotation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "pulp --watch build -O --to index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tanweerhossain/cube_rotation.git"
+  },
+  "author": "Tanweer Hossain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tanweerhossain/cube_rotation/issues"
+  },
+  "homepage": "https://github.com/tanweerhossain/cube_rotation#readme"
+}
